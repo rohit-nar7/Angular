@@ -1,0 +1,13 @@
+/* Add custom styles to display the fruits */
+
+
+h1 {
+    padding-left: 770px;
+    padding-top: 70px;
+    font-weight: 100;
+    color:whitesmoke
+}
+
+body {
+    background-color: Gray;
+}
